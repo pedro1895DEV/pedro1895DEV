@@ -1,4 +1,4 @@
-### Olá! Eu sou o Pedro
+
 <div>
   <a href="https://github.com/pedro1895DEV">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pedro1895DEV&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -12,4 +12,5 @@
   <img align="center" alt="Pedro-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Pedro-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Pedro-Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
+    <img align="center" alt="Pedro-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 </div>
