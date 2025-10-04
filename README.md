@@ -2,19 +2,20 @@
   <h1 style="color:#fff;">Software Engineer | JavaScript • TypeScript • Node.js</h1>
   <br/>
 
-  <table align="center" width="100%" style="max-width:900px;">
+  <table align="center" width="100%" style="max-width:1000px;">
     <tr>
-      <td style="vertical-align: top; padding: 10px; width: 50%;">
+      <td style="vertical-align: top; padding: 10px; width: 90%;">
         <div style="background-color:#161B22; border-radius:12px; padding:25px; width:100%; height:100%;">
           <h3 style="color:#fff;">Most Used Languages</h3>
           <img 
             width="100%"
+            height="200em"
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro1895DEV&layout=compact&langs_count=7&theme=github_dark&hide_border=true&bg_color=161B22&title_color=58A6FF&text_color=C9D1D9"
             alt="Top Languages"
           />
         </div>
       </td>
-      <td style="vertical-align: top; padding: 10px; width: 50%;">
+      <td style="vertical-align: top; padding: 10px; width: 40%;">
         <div style="background-color:#161B22; border-radius:12px; padding:25px; width:100%; height:100%;">
           <h3 style="color:#fff;">Stack</h3>
           <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:8px; margin-top:10px;">
