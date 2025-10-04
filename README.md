@@ -17,7 +17,7 @@
   <br/>
 
   <div style="background-color:#161B22; border-radius:12px; padding:20px; width:80%; margin:auto;">
-    <h3 style="color:#fff;">Tech Stack</h3>
+    <h3 style="color:#fff;">Stack</h3>
     <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:8px; margin-top:10px;">
       <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
