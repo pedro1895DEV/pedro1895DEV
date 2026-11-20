@@ -45,6 +45,6 @@ Software Engineer dedicated to architecting scalable, secure, and high-performan
 ### 📊 Analytics & Activity
 
 <p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pedro1895DEV&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pedro1895DEV&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api?username=pedro1895DEV&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=pedro1895DEV&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="165" />
 </p>
